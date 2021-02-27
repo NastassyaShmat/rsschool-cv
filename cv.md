@@ -4,7 +4,7 @@
 
 ### Brief information about me
 
-    I am an estimator. Work experience is 2.3 years. I want to be programm developer, becouse this is exiting. And I know, that this profession will get me personal and career growth.
+    I am an estimator. Work experience is 2.3 years. I want to be programm developer, becouse this is exciting. And I know, that this profession will get me personal and career growth.
 
 ### Skills
 
@@ -30,7 +30,10 @@
 
 ### Education
 
-    Independently study of the programming language JavaScript, RSSchool student.
+    1. Basic knowledge JS.
+    1. Basic knowledge HTML.
+    1. Basic knowledge CSS.
+    1. Experience with Git and GitHub.
 
 ### English language
 
