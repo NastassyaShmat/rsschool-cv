@@ -38,12 +38,17 @@ br {
   float: left;
   padding: 1px;
   margin-right: 30px;
-  width: 50%;
+  width: 40%;
 }
-.block2 {
-  padding: 1px;
+figure {
   float: left;
-  width: 35%;
+  width: 30%;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+img {
+  width: 100%;
+  width: 100%;
 }
 .block4 {
   padding: 1px;
